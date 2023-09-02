@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@c10n14>
+Subject: Job 18878: <python main.py> in cluster <cluster1> Exited
+
+Job <python main.py> was submitted from host <login02> by user <wangw.comp> in cluster <cluster1>.
+Job was executed on host(s) <16*c10n14>, in queue <nc>, as user <wangw.comp> in cluster <cluster1>.
+</gpfs1/home/comp/wangw> was used as the home directory.
+</gpfs1/home/comp/wangw/lsh/GraphTGI-main/data> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python main.py
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   0.05 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   6 sec.
+    Turnaround time :                            7 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <18878.err> for stderr output of this job.
+

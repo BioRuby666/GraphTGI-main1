@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2c9f6e4-c00b-4ffe-a179-189e8dea7d91" name="GraphDTI">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="22" sshConfigId="b48b63c9-72c3-4575-a48d-5ec777e65f3a" sshConfig="u2208283115@127.0.0.1:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
